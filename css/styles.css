@@ -1,0 +1,47 @@
+body{
+  margin: 0;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: blue;
+  border-width: 10px;
+  width: 100%;
+}
+
+img {
+  height: 200px;
+}
+
+.ClassA{
+  color: yellow;
+}
+
+h3 {
+  color: red;
+}
+
+.uzbek :hover {
+  background-color: yellow;
+}
+
+.circular {border-radius: 100%;
+}
+
+.Sardor{
+  background-color: #1E90FF;
+
+}
+.Education{
+  background-color: #FFFAF0;
+}
+.Skills{
+  background-color: #008000;
+}
+.Contact{
+  background-color: orange;
+}
+.hobbies{
+  background-color: lightblue;
+}
